@@ -1,2 +1,4 @@
-# Software-Architect-case-studies-
-This template serves as a list of things that can be discussed during the interview
+# Software-Architect-case-studies
+I have used this template to discuss many problems, that I've worked on in recent years.
+
+![software architecture](software-architecture.png)
